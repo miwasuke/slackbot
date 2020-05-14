@@ -1,0 +1,9 @@
+../site-packages/libmecab.dll,sha256=ezEqZiiPnNJBs-nuBD720qwVu7GWvzZGSY89ZsGjh0s,4901376
+MeCab.py,sha256=PQmdw_vc_0VQ65P3tMBglijfIXXlYL3GrnFujvbh6Q8,11818
+_MeCab.cp37-win32.pyd,sha256=jHgFYbKXh5_4HN9niVZ9Vyjo3GIK5UqqFP2xg7BiqqQ,106496
+__pycache__/MeCab.cpython-37.pyc,,
+mecab-0.996.2.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+mecab-0.996.2.dist-info/METADATA,sha256=hJUCN0JnP-qaKrIrjuWhRWv53iXnO-qEKXVM5xgKABA,3627
+mecab-0.996.2.dist-info/RECORD,,
+mecab-0.996.2.dist-info/WHEEL,sha256=2zzu_YdXIu-xXZDqaBZlJhw2t5mxGHySzFgniB0mw4c,102
+mecab-0.996.2.dist-info/top_level.txt,sha256=E6HHbCcV114TjQmzLJGG5aSu2Sb0tjGGxkjler1jxrQ,13
