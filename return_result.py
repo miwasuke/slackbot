@@ -12,4 +12,5 @@ for w in words:
             for k in keys:
                 result.setdefault(k,q)
 
+#koko
 print(result)
