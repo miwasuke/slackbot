@@ -11,16 +11,15 @@ def generate_morphes(query):
         'format': 'json'
     }
     r = requests.get(url, params=params)
-    list = json.loads(r.text)
-
+    texts = json.loads(r.text)
     words = []
-    for data in list:
+    for data in texts:
         pos = data['feature'].split(',')[0]
         if pos != '名詞':
             continue
         words.append(data['surface'])
 
-    words = set(words)
+    words = list(set(words))
     return words
 
 # jsonの取得,成形
